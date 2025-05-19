@@ -1,50 +1,80 @@
-# Welcome to your Expo app 👋
+# 📊 Budget Tracker Pro Plus
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A futuristic, mobile-first budget tracking app built with **React Native** and **Expo Router**. Designed for simplicity and power — track expenses, manage savings goals, and securely register users.
 
-## Get started
+![banner](./assets/banner.png) <!-- Replace with your own screenshot if needed -->
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Features
 
-2. Start the app
+- 🔐 Secure user registration (local)
+- 🎯 Max target saving goal tracking
+- 📁 Data stored locally via AsyncStorage
+- ⚛️ Built with Expo Router and React Native
+- 📱 Stylish, responsive, and minimal UI
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native (Expo)
+- TypeScript
+- AsyncStorage
+- Expo Router
+- Git + GitHub
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
-
-When you're ready, run:
+## 📦 Installation
 
 ```bash
-npm run reset-project
-```
+git clone https://github.com/Nikhilrkatigar/bugetapp.git
+cd bugetapp
+npm install
+npx expo start
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🙌 Contributing
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+We welcome contributions from developers of all experience levels. To contribute:
 
-## Join the community
+1. **Fork** the repository.
 
-Join our community of developers creating universal apps.
+2. **Clone** your fork:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   ```bash
+   git clone https://github.com/your-username/bugetapp.git
+   ```
+
+3. **Create a feature branch:**
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **Commit your changes:**
+
+   ```bash
+   git add .
+   git commit -m "✨ Add: Your feature description"
+   ```
+
+5. **Push to GitHub:**
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+6. **Create a Pull Request** on the main repository.
+
+> 📌 Please ensure your code follows clean coding practices and includes relevant comments.
+
+---
+
+## 🧑‍💻 Author
+
+Developed with  by [**Nikhil Katigar**](https://github.com/Nikhilrkatigar)
+
+
